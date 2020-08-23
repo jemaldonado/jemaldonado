@@ -1,16 +1,16 @@
-### Hi there 👋
+# Juan Maldonado 😃
 
-<!--
-**jemaldonado/jemaldonado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-juaneduardomaldonado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juaneduardomaldonado/)](https://www.linkedin.com/in/juaneduardomaldonado/)
 
-Here are some ideas to get you started:
+[![Gmail Badge](https://img.shields.io/badge/-juaneduardo.maldonado@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juaneduardo.maldonado@gmail.com)](mailto:juaneduardo.maldonado@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧐 
+Especialista em dados   
+
+## ⚡ Tecnologias
+- Desenvolvimento : Python, PHP, Javascript /  Flask , Laravel , Angular
+- Visualização : Power BI, Qlik Sense, Streamlit / Matplotlib, Seaborn ,ggplot, Bokeh, Plotly
+- ETL :  Talend, Pentaho, Web Scraping, Beautiful Soup
+- Ferramentas : Docker, GITLAB, Jupyter, vscode, Azure
+- Data Science : Machine Learning, Tensor Flow, NLP, nltk, spacy, numpy, pandas, SciPy, Scikit-Learn, XGBoost ...
+
