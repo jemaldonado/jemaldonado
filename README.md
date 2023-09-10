@@ -5,7 +5,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-juaneduardo.maldonado@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juaneduardo.maldonado@gmail.com)](mailto:juaneduardo.maldonado@gmail.com)
 
 ## 🧐 
-Especialista em dados   
 
 ## ⚡ Tecnologias
 - Desenvolvimento : Python, PHP, Javascript /  Flask , Laravel , Angular
